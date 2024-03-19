@@ -15,22 +15,39 @@
   </style>
 </head>
 <body>
-<h1 id="padrões-i">Padrões I</h1>
-<p>O diagrama mostra os três primeiros padrões em uma sequência em que cada padrão possui um buraco quadrado no meio.</p>
+<h1 id="padrões-ii">Padrões II</h1>
+<p>Considere a seguinte sequência de imagem:</p>
 <figure>
-<img src="https://github.com/WladimirTavares/ED2024.1/raw/main/padr%C3%B5es%20I/pattern.png" alt="" /><figcaption>Padrões</figcaption>
+<img src="seq1.png" alt="" /><figcaption>Padrões</figcaption>
 </figure>
-<p>Escreva uma função que dado um inteiro <code>n</code> representando a posição de um padrão na sequência, calcule o número de quadrados sombreados.</p>
+<p>Cada imagem na sequência é formada por um número de peças (uma peça pode ser um quadrado ou triângulo).</p>
+<p>A tabela seguinte apresenta uma relação entre a ordem da imagem na sequência e o número total de peças utilizadas:</p>
+<table>
+<thead>
+<tr class="header">
+<th>ordem</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>número de peças</td>
+<td>3</td>
+<td>8</td>
+<td>15</td>
+</tr>
+</tbody>
+</table>
+<p>Faça um programa que recebe um inteiro <code>n</code> e devolve o número total de peças da n-ésima imagem da sequência.</p>
 <p><strong>Entrada</strong></p>
 <p>A entrada é composta por uma única linha contendo um inteiro <code>n</code> representando a posição de um padrão na sequência.</p>
 <p><strong>Saída</strong></p>
-<p>A saída é composta por uma única linha contendo o número de quadrados sombreados do n-ésimo padrão da sequência.</p>
+<p>A saída é composta por uma única linha contendo o total de peças da n-ésima imagem da sequência.</p>
 <p><strong>Exemplo de Entrada</strong></p>
-<pre><code>1</code></pre>
+<pre><code>3</code></pre>
 <p><strong>Exemplo de Saída</strong></p>
-<pre><code>20
-</code></pre>
-<p>A primeira imagem do padrão pode ser decomposto em 4 retângulos 1x2 e 4 figuras no formato de L.</p>
-<p><img src="https://github.com/WladimirTavares/ED2024.1/raw/main/padr%C3%B5es%20I/decomposition.jpeg" alt="Decomposicao" style="height: 100px; width:100px;"/></p>
+<pre><code>15</code></pre>
 </body>
 </html>

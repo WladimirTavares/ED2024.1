@@ -2,7 +2,7 @@
 
 O diagrama mostra os três primeiros padrões em uma sequência em que cada padrão possui um buraco quadrado no meio.
 
-![Padrão](pattern.png)
+![Padrões](https://github.com/WladimirTavares/ED2024.1/raw/main/padr%C3%B5es%20I/pattern.png)
 
 
 Escreva uma função que dado um inteiro `n` representando a posição de um padrão na sequência, calcule o número de quadrados sombreados.
@@ -28,4 +28,6 @@ A saída é composta por uma única linha contendo o número de quadrados sombre
 
 A primeira imagem do padrão pode ser decomposto em 4 retângulos 1x2 e 4 figuras no formato de L.
 
-<img src="./decomposition.jpeg" alt="Decomposicao" style="height: 100px; width:100px;"/>
+
+
+<img src="https://github.com/WladimirTavares/ED2024.1/raw/main/padr%C3%B5es%20I/decomposition.jpeg" alt="Decomposicao" style="height: 100px; width:100px;"/>

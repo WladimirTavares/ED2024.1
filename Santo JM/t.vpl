@@ -1,0 +1,17 @@
+case=
+input=5 20
+output="17.5
+"
+grade reduction=100%
+
+case=
+input=6 20
+output="19.69
+"
+grade reduction=100%
+
+case=
+input=6 10
+output="9.84
+"
+grade reduction=100%
