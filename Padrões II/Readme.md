@@ -3,7 +3,7 @@
 Considere a seguinte sequência de imagem:
 
 
-![Padrões](seq1.png)
+![Padrões](https://github.com/WladimirTavares/ED2024.1/raw/main/Padr%C3%B5es%20II/seq1.png)
 
 
 Cada imagem na sequência é formada por um número de peças (uma peça pode ser um quadrado ou triângulo).
