@@ -3,10 +3,10 @@
 Considere as seguintes sequências de figuras geométricas:
 
 
-![Padrões](./Padroes.png)
+![Padrões](https://github.com/WladimirTavares/ED2024.1/raw/main/PadroesIII/Padroes.png)
 
 
-Dado dois inteiros $1 \leq n \leq 3$ e $ 1 \leq m \leq 40$, encontre o número de pontos da m-ésima figura da sequência $F_n$. Por exemplo, a segunda figura da sequência $F_3$ é formada por 3 pontos.
+Dado dois inteiros $3 \leq n \leq 20$ e $ 1 \leq m \leq 40$, encontre o número de pontos da m-ésima figura da sequência $F_n$. Por exemplo, a segunda figura da sequência $F_3$ é formada por 3 pontos.
 
 
 
