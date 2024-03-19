@@ -2,7 +2,7 @@
 
 Suponha agora os nossos coelhos não vivam para sempre e morrem depois de 3 meses. Contudo, os coelhos acasalam com um mês de idade e cada fêmea produz um novo par de coelhos a cada mês a partir do segundo mês.
 
-![Fibonacci](./Fibonacci.png)
+![Fibonacci](https://github.com/WladimirTavares/ED2024.1/raw/main/Fibonacci%20II/Fibonacci.png)
 
 
 A imagem mostra que ao final de seis meses teremos apenas 4 pares de coelhos considerando que os coelhos morrem após 3 meses. 
@@ -12,7 +12,7 @@ Desenvolva uma função recursiva f (n) que devolve o número de pares de coelho
 
 **Entrada**
 
-A entrada é composta por uma única linha contendo um único inteiro ($1 \leq n \leq 20$)
+A entrada é composta por uma única linha contendo um único inteiro ($1 \leq n \leq 40$)
 
 **Saída**
 
@@ -28,3 +28,12 @@ A saída é composta por uma única linha contendo o número total de pares de c
 4
 ```
 
+**Exemplo de Entrada**
+```
+40
+```
+
+**Exemplo de Saída**
+```
+55405
+```
