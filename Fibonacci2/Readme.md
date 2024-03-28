@@ -2,7 +2,7 @@
 
 Suponha agora os nossos coelhos não vivam para sempre e morrem depois de 3 meses. Contudo, os coelhos acasalam com um mês de idade e cada fêmea produz um novo par de coelhos a cada mês a partir do segundo mês.
 
-![Fibonacci](https://github.com/WladimirTavares/ED2024.1/raw/main/Fibonacci%20II/Fibonacci.png)
+![Fibonacci](https://github.com/WladimirTavares/ED2024.1/blob/main/Fibonacci2/Fibonacci.png?raw=true)
 
 
 A imagem mostra que ao final de seis meses teremos apenas 4 pares de coelhos considerando que os coelhos morrem após 3 meses. 

@@ -22,3 +22,7 @@
 * [Fibonacci II](./Fibonacci2/Readme.md)
 
 * [Padrões III](./PadroesIII/Readme.md)
+
+* [Escada](./Escada/Readme.md)
+
+* [BitCoin](./BitCoin/Readme.md)

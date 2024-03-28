@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>Readme</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+  </style>
+</head>
+<body>
+<h1 id="bitcoin">BitCoin</h1>
+<p>Suarez conheceu o maravilhoso mundo dos ativos digitais. Seu patrimônio cresceu bastante usando a seguinte estratégia de investimento.</p>
+<p>Considere que Suarez possui N reais para investir e ele nunca investe mais do que K reais em um mesmo ativo digital com o objetivo de diversificar sua carteira e reduzir o risco. Se N &gt; K, Suarez divide seu capital em duas partes de <span class="math inline">⌈<em>N</em>/2⌉</span> e <span class="math inline">⌊<em>N</em>/2⌋</span> reais e continua dividindo cada uma dessas partes de maneira similar, até resultar em partes de no máximo K reais cada. Ao final desse processo, Suarez terá seu capital dividido em E partes e investirá integralmente cada uma delas em ativos digitais diferentes. Sua tarefa consiste em ajudar Suarez a descobrir em quantos ativos digitais diferentes ele irá investir usando essa estratégia.</p>
+<p>Por exemplo, considere N = 18 e K = 4. Após a primeira divisão João terá duas partes de 9 reais. Cada uma dessas partes será dividida, resultando em duas partes de 5 reais e duas partes de 4 reais. As partes de 5 reais são então divididas novamente, resultando em duas partes de 2 reais e duas partes de 3 reais. As partes de 4 reais não precisam mais ser divididas. Logo, todas as 6 partes resultantes (duas de 2 reais, duas de 3 reais e duas de 4 reais) possuem no máximo 4 reais e são utilizadas por João para investir em 6 ativos digitais distintos.</p>
+<p><strong>Entrada</strong></p>
+<p>A entrada é composta por uma única linha contendo dois inteiros <span class="math inline"><em>n</em></span> e <span class="math inline"><em>k</em></span> respectivamente o capital inicial de Suarez (1 ≤ N ≤ 1.000.000) em reais e a quantidade máxima de reais (1 ≤ K ≤ 1.000.000) que Suarez pode investir para comprar ações de uma mesma empresa.</p>
+<p><strong>Saída</strong></p>
+<p>A saída é composta por uma única linha contendo um único número, a quantidade de empresas E em que Suarez irá investir seu capital.</p>
+<p><strong>Exemplo de Entrada</strong></p>
+<pre><code>18 4</code></pre>
+<p><strong>Exemplo de Saída</strong></p>
+<pre><code>6</code></pre>
+</body>
+</html>
